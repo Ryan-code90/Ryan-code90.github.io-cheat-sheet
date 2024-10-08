@@ -8,13 +8,10 @@
   box-sizing: border-box;
 }
 
-.navigation {
-  display: grid;
-}
-
-.navigation ul {
-  display: inline-flex;
-  margin: 0 auto;
-  max-width: 200%;
+li {
+  border: solid;
+  display: inline-block;
   text-align: center;
+  max-width: 600%;
+  width: 500px;
 }
