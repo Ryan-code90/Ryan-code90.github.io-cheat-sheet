@@ -12,6 +12,11 @@ li {
   border: solid;
   display: inline-block;
   text-align: center;
-  max-width: 600%;
-  width: 500px;
+  width: 850px;
+}
+
+.header {
+  color: darkblue;
+  background-color: lightblue;
+  text-align: center;
 }
